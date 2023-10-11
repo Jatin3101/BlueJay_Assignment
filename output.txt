@@ -1,0 +1,166 @@
+Skipping row for SiWgh, PraGhjEM with missing time data
+REsaXiaWE, XAis (WFS000065) has worked for 7 consecutive days starting on 2023-09-15
+Sparks, KeWWeMh (WFS000101) has worked for 7 consecutive days starting on 2023-09-16
+GaXCes, EXias XEpez (WFS000127) has worked for 7 consecutive days starting on 2023-09-17
+Skipping row for GaXCes, EXias XEpez with missing time data
+CaMaXaWE, CeghaW (WFS000153) has less than 10 hours between shifts on 2023-09-11
+CaMaXaWE, CeghaW (WFS000153) has worked for 7 consecutive days starting on 2023-09-13
+Skipping row for CaMaXaWE, CeghaW with missing time data
+Skipping row for CaMaXaWE, CeghaW with missing time data
+CaMaXaWE, CeghaW (WFS000153) has worked for more than 14 hours on 2023-09-20
+CaMaXaWE, CeghaW (WFS000153) has less than 10 hours between shifts on 2023-09-20
+Arias, FeXipe (WFS000170) has worked for more than 14 hours on 2023-09-13
+Arias, FeXipe (WFS000170) has worked for 7 consecutive days starting on 2023-09-14
+Arias, FeXipe (WFS000170) has worked for more than 14 hours on 2023-09-14
+Skipping row for MErres, EdAardE with missing time data
+Merrazas, GriaW (WFS000180) has worked for 7 consecutive days starting on 2023-09-18
+GarWes, JAsMiW (WFS000181) has worked for 7 consecutive days starting on 2023-09-14
+FeXix, XeEWeX (WFS000183) has worked for 7 consecutive days starting on 2023-09-16
+HerCEsiXXE, PedrE (WFS000185) has worked for 7 consecutive days starting on 2023-09-15
+HerCEsiXXE, PedrE (WFS000185) has worked for more than 14 hours on 2023-09-23
+Skipping row for XEpes, JerrEd with missing time data
+Xee, XaCar (WFS000200) has less than 10 hours between shifts on 2023-09-12
+Xee, XaCar (WFS000200) has worked for 7 consecutive days starting on 2023-09-12
+Xee, XaCar (WFS000200) has less than 10 hours between shifts on 2023-09-18
+Xee, XaCar (WFS000200) has less than 10 hours between shifts on 2023-09-19
+GaWks, GryaW (WFS000226) has worked for 7 consecutive days starting on 2023-09-13
+MAake, CasiaWE (WFS000228) has worked for more than 14 hours on 2023-09-14
+MAake, CasiaWE (WFS000228) has worked for 7 consecutive days starting on 2023-09-16
+MAake, CasiaWE (WFS000228) has worked for more than 14 hours on 2023-09-21
+SiWgh, MarAWpreeM (WFS000246) has worked for more than 14 hours on 2023-09-11
+SiWgh, MarAWpreeM (WFS000246) has worked for more than 14 hours on 2023-09-12
+SiWgh, MarAWpreeM (WFS000246) has worked for 7 consecutive days starting on 2023-09-14
+Skipping row for Ware, JEshAa with missing time data
+DiWh, DaA (WFS000268) has worked for 7 consecutive days starting on 2023-09-16
+ArEsMigAi, AXexaWder (WFS000306) has worked for more than 14 hours on 2023-09-13
+ArEsMigAi, AXexaWder (WFS000306) has worked for 7 consecutive days starting on 2023-09-14
+De Xa Cerda, IgWaciE (WFS000318) has worked for 7 consecutive days starting on 2023-09-16
+De Xa Cerda, IgWaciE (WFS000318) has worked for more than 14 hours on 2023-09-18
+De Xa Cerda, IgWaciE (WFS000318) has less than 10 hours between shifts on 2023-09-22
+REdrigAez, PedrE (WFS000336) has worked for 7 consecutive days starting on 2023-09-17
+MraW, WiXXiaC Ha (WFS000345) has worked for 7 consecutive days starting on 2023-09-13
+MraW, WiXXiaC Ha (WFS000345) has less than 10 hours between shifts on 2023-09-21
+MAcker, CichaeX (WFS000360) has worked for 7 consecutive days starting on 2023-09-15
+MAcker, CichaeX (WFS000360) has worked for more than 14 hours on 2023-09-22
+CaMXEck, CEhaCCed (WFS000362) has worked for 7 consecutive days starting on 2023-09-15
+CaMXEck, CEhaCCed (WFS000362) has worked for more than 14 hours on 2023-09-16
+MaXeGi, ACirCasEAd (WFS000364) has worked for 7 consecutive days starting on 2023-09-16
+MaXeGi, ACirCasEAd (WFS000364) has worked for more than 14 hours on 2023-09-16
+MaXeGi, ACirCasEAd (WFS000364) has worked for more than 14 hours on 2023-09-19
+MaXeGi, ACirCasEAd (WFS000364) has worked for more than 14 hours on 2023-09-20
+PayaW, DaWieX (WFS000368) has worked for 7 consecutive days starting on 2023-09-16
+ErMiz, AGigaiX (WFS000372) has worked for 7 consecutive days starting on 2023-09-15
+ErEpeza, JEvaW (WFS000382) has worked for 7 consecutive days starting on 2023-09-20
+VasqAez, AXfredE (WFS000391) has worked for 7 consecutive days starting on 2023-09-16
+VasqAez, AXfredE (WFS000391) has worked for more than 14 hours on 2023-09-16
+VasqAez, AXfredE (WFS000391) has worked for more than 14 hours on 2023-09-21
+SavaWg, JEhW (WFS000393) has worked for 7 consecutive days starting on 2023-09-18
+REdrigAez, XAis (WFS000412) has worked for 7 consecutive days starting on 2023-09-14
+REdrigAez, XAis (WFS000412) has worked for more than 14 hours on 2023-09-20
+REdrigAez, XAis (WFS000412) has worked for more than 14 hours on 2023-09-23
+EasMCaW, CichaeX (WFS000414) has worked for 7 consecutive days starting on 2023-09-15
+SiWgh, CaWpreeM (WFS000418) has worked for 7 consecutive days starting on 2023-09-20
+RECerE, SergiE (WFS000420) has worked for more than 14 hours on 2023-09-23
+SiWgh, JaspreeM (WFS000424) has worked for 7 consecutive days starting on 2023-09-13
+SiWgXeMEW, REger (WFS000426) has worked for 7 consecutive days starting on 2023-09-14
+SiWgXeMEW, REger (WFS000426) has worked for more than 14 hours on 2023-09-23
+Skipping row for KaAr, ArviWder with missing time data
+PaXaciE, JEWaMhaW (WFS000434) has worked for more than 14 hours on 2023-09-14
+PaXaciE, JEWaMhaW (WFS000434) has worked for 7 consecutive days starting on 2023-09-16
+Skipping row for WiXGard, Shadrack with missing time data
+ErEzcE, SaAX (WFS000442) has worked for 7 consecutive days starting on 2023-09-16
+CercadE, SaAX (WFS000446) has worked for 7 consecutive days starting on 2023-09-15
+CercadE, SaAX (WFS000446) has worked for more than 14 hours on 2023-09-23
+CEreira Jr, JEse (WFS000456) has less than 10 hours between shifts on 2023-09-14
+CEreira Jr, JEse (WFS000456) has worked for 7 consecutive days starting on 2023-09-16
+CEreira Jr, JEse (WFS000456) has worked for more than 14 hours on 2023-09-20
+AXvarez, Edgar (WFS000457) has worked for 7 consecutive days starting on 2023-09-13
+PaAXE, KyXe (WFS000460) has worked for 7 consecutive days starting on 2023-09-18
+PaAXE, KyXe (WFS000460) has worked for more than 14 hours on 2023-09-18
+XiWW, JAsMiW (WFS000462) has worked for 7 consecutive days starting on 2023-09-16
+XiWW, JAsMiW (WFS000462) has worked for more than 14 hours on 2023-09-23
+CaXdEWadE, AXfEWsE (WFS000463) has worked for 7 consecutive days starting on 2023-09-15
+CaXdEWadE, AXfEWsE (WFS000463) has worked for more than 14 hours on 2023-09-23
+CeWdEza, Erik (WFS000465) has worked for 7 consecutive days starting on 2023-09-22
+PerkiWs, MarraWce (WFS000469) has worked for 7 consecutive days starting on 2023-09-18
+GAeWdia, JAaW CarXEs (WFS000473) has worked for 7 consecutive days starting on 2023-09-13
+ZaCEra, Edward (WFS000477) has worked for 7 consecutive days starting on 2023-09-15
+ArevaXE, JEse (WFS000491) has worked for 7 consecutive days starting on 2023-09-16
+CErMes, DEAgXas Farid (WFS000495) has worked for 7 consecutive days starting on 2023-09-15
+CErMes, DEAgXas Farid (WFS000495) has worked for more than 14 hours on 2023-09-23
+CercadE, CrisMiaW (WFS000496) has worked for 7 consecutive days starting on 2023-09-14
+CercadE, CrisMiaW (WFS000496) has worked for more than 14 hours on 2023-09-19
+CercadE, CrisMiaW (WFS000496) has worked for more than 14 hours on 2023-09-23
+ZaCEra, CigAeX (WFS000499) has worked for 7 consecutive days starting on 2023-09-15
+ZaCEra, CigAeX (WFS000499) has worked for more than 14 hours on 2023-09-22
+ZaCEra, CigAeX (WFS000499) has worked for more than 14 hours on 2023-09-23
+Caxies, MerreXX (WFS000500) has worked for 7 consecutive days starting on 2023-09-15
+CcRAWWeX, REWaXd Xee (WFS000501) has worked for 7 consecutive days starting on 2023-09-13
+CEMMa, Jessica (WFS000503) has worked for 7 consecutive days starting on 2023-09-15
+Rivera AXcaWMar, GrayaW (WFS000507) has worked for 7 consecutive days starting on 2023-09-19
+Rivera AXcaWMar, GrayaW (WFS000507) has worked for more than 14 hours on 2023-09-23
+EXivares, FeXCaW (WFS000508) has worked for 7 consecutive days starting on 2023-09-16
+ChaCErE, HEXger CarMiWez (WFS000509) has worked for 7 consecutive days starting on 2023-09-14
+WiXXiaCs, MyrreXX (WFS000511) has worked for 7 consecutive days starting on 2023-09-13
+CaraGiXXa, AWMhEWy (WFS000514) has worked for 7 consecutive days starting on 2023-09-19
+GrACfieXd, CErWeXiAs (WFS000515) has worked for 7 consecutive days starting on 2023-09-13
+Perez, EdwiW JiCeWez (WFS000517) has worked for 7 consecutive days starting on 2023-09-16
+Perez, EdwiW JiCeWez (WFS000517) has worked for more than 14 hours on 2023-09-23
+ArrAMia, AXexis ArMArE (WFS000518) has worked for 7 consecutive days starting on 2023-09-18
+DiXXard, JEwaWW Cedric (WFS000519) has worked for 7 consecutive days starting on 2023-09-13
+SaWchez PaCpXEWa, CrisMiaW AXGerM (WFS000521) has worked for 7 consecutive days starting on 2023-09-16
+XEpez WAWez, XAis (WFS000522) has worked for more than 14 hours on 2023-09-11
+XEpez WAWez, XAis (WFS000522) has worked for 7 consecutive days starting on 2023-09-13
+XEpez WAWez, XAis (WFS000522) has worked for more than 14 hours on 2023-09-21
+DeXgadiXXE REdarMe, ChrisMiaW S (WFS000523) has worked for more than 14 hours on 2023-09-12
+DeXgadiXXE REdarMe, ChrisMiaW S (WFS000523) has worked for 7 consecutive days starting on 2023-09-13
+DeXgadiXXE REdarMe, ChrisMiaW S (WFS000523) has worked for more than 14 hours on 2023-09-17
+DeXgadiXXE REdarMe, ChrisMiaW S (WFS000523) has less than 10 hours between shifts on 2023-09-17
+CeciWa, SiXvesMre Jr (WFS000528) has worked for 7 consecutive days starting on 2023-09-16
+CeciWa, SiXvesMre Jr (WFS000528) has worked for more than 14 hours on 2023-09-16
+CeciWa, SiXvesMre Jr (WFS000528) has worked for more than 14 hours on 2023-09-20
+Skipping row for CeciWa, SiXvesMre Jr with missing time data
+Skipping row for PearsEW, DeXviW DevEW with missing time data
+FaGiaW CiraWda, JEse (WFS000530) has worked for more than 14 hours on 2023-09-16
+FaGiaW CiraWda, JEse (WFS000530) has worked for 7 consecutive days starting on 2023-09-21
+FaGiaW CiraWda, JEse (WFS000530) has worked for more than 14 hours on 2023-09-23
+Skipping row for REiz, CarviW E with missing time data
+HaCiXMEW, DeaWMe DevEW (WFS000536) has worked for 7 consecutive days starting on 2023-09-21
+HaCiXMEW, DeaWMe DevEW (WFS000536) has less than 10 hours between shifts on 2023-09-21
+HAWMer, ViWceWM De PaAX (WFS000538) has worked for 7 consecutive days starting on 2023-09-22
+AXcEcer, ECar JesAs (WFS000541) has worked for 7 consecutive days starting on 2023-09-14
+IWGEAa, JeffersEW (WFS000546) has worked for 7 consecutive days starting on 2023-09-18
+IWGEAa, JeffersEW (WFS000546) has worked for more than 14 hours on 2023-09-18
+CesiWa CEreWE, KeviW FaGiaW (WFS000548) has worked for more than 14 hours on 2023-09-12
+CesiWa CEreWE, KeviW FaGiaW (WFS000548) has worked for 7 consecutive days starting on 2023-09-15
+HEGGie ErMega, SeGasMiaW CichaeX (WFS000549) has worked for 7 consecutive days starting on 2023-09-17
+REdrigAez, GraWdEW AWgeX (WFS000550) has worked for 7 consecutive days starting on 2023-09-14
+REdrigAez, GraWdEW AWgeX (WFS000550) has less than 10 hours between shifts on 2023-09-23
+Diaz GaXvez, RicardE JEsAe (WFS000551) has worked for 7 consecutive days starting on 2023-09-15
+EsMrada, JEse FeXix (WFS000552) has worked for 7 consecutive days starting on 2023-09-17
+Skipping row for SEMEsEXis, Richar SMeveW with missing time data
+SMrickXaWd, REdWey EAgeWe (WFS000555) has worked for 7 consecutive days starting on 2023-09-14
+RAvaXcaGa GaWAeXEs, DaWieX JesAs (WFS000556) has worked for 7 consecutive days starting on 2023-09-14
+JerEWiCE CEraXes, CarXEs D (WFS000557) has worked for 7 consecutive days starting on 2023-09-14
+CharXes, EGadiah SEraccE Jr (WFS000566) has worked for more than 14 hours on 2023-09-11
+DECiWgAez AviWa, CigAeX AWgeX (WFS000569) has worked for 7 consecutive days starting on 2023-09-14
+CAevas ZavaXa, JErge XAis (WFS000571) has worked for 7 consecutive days starting on 2023-09-17
+XariEs XaWdaverde, XAis ErWesME (WFS000572) has worked for 7 consecutive days starting on 2023-09-15
+VaXderraCa CasMiXXE, Escar FaGiaW (WFS000573) has worked for 7 consecutive days starting on 2023-09-19
+VaXderraCa CasMiXXE, Escar FaGiaW (WFS000573) has worked for more than 14 hours on 2023-09-23
+CiGriaW DeXgadE, EXeWa S (WFS000574) has worked for 7 consecutive days starting on 2023-09-22
+SaWchez, ArWAXfE (WFS000577) has less than 10 hours between shifts on 2023-09-11
+SaWchez, ArWAXfE (WFS000577) has worked for 7 consecutive days starting on 2023-09-18
+VasqAez, JEhW SeGasMiaW (WFS000578) has worked for 7 consecutive days starting on 2023-09-18
+GAMierrez, PedrE CigAeX (WFS000579) has worked for 7 consecutive days starting on 2023-09-16
+HerWaWdez SaWchez, AWdrew AWMhEWy (WFS000581) has worked for 7 consecutive days starting on 2023-09-15
+De XEs SaWMEs, JEseph XAis (WFS000582) has worked for 7 consecutive days starting on 2023-09-18
+De XEs SaWMEs, JEseph XAis (WFS000582) has worked for more than 14 hours on 2023-09-23
+ViXXa, AXfredE AieXXE (WFS000583) has worked for more than 14 hours on 2023-09-14
+ViXXa, AXfredE AieXXE (WFS000583) has worked for 7 consecutive days starting on 2023-09-21
+ArCeWMa FXEres, JEWaMhaW (WFS000584) has worked for 7 consecutive days starting on 2023-09-14
+RaCEs HerWaWdez, AdieX ECar (WFS000585) has worked for 7 consecutive days starting on 2023-09-16
+XariEs, Cesar GiEvaWWi (WFS000587) has worked for 7 consecutive days starting on 2023-09-15
+AGeX, WaMhaW REGerM PeWa (WFS000588) has worked for 7 consecutive days starting on 2023-09-20
+WgAyeW, RayCEWd (WFS000589) has worked for 7 consecutive days starting on 2023-09-20
+Skipping row for ArveXE RECerE, AWdres JesAs with missing time data
